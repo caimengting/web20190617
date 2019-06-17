@@ -9,14 +9,16 @@ a{
     text-decoration: none;
 	color: #000000;
 }
-.autoall{
-	width: 1200px; 
+.autoall1{
+	width: 1519px; 
 	margin: 0 auto; 
 } 
+.autoall2{
+	width: 1200px; 
+	margin: 0 auto; 
+}
 
 .zuishang{
-	width: 1200px; 
-	margin: 0 auto;
 	overflow: hidden; 
 }
 .zuishang>li{
@@ -45,8 +47,6 @@ a{
 }
 .div2{
 	overflow: hidden;
-	width: 1200px; 
-	margin: 0 auto;
 }
 .div2 li{
 	float: left;
@@ -65,8 +65,6 @@ a{
 .div3{
 	overflow: hidden;
 	/* border-bottom: 1px solid #008000; */
-	width: 1200px; 
-	margin: 0 auto;
 }
 .div3 li{
 	float: left;
@@ -95,9 +93,7 @@ a{
 .quanbu:hover{
 	border-bottom: 2px solid #008000;
 }
-.feicui{
-	width: 1519px;
-}
+
 .juedui{
 	/* position: absolute; */
 	display: block;
@@ -118,8 +114,6 @@ a{
 	padding-top: 20px;
 }
 .div4{
-	width: 1200px; 
-	margin: 0 auto;
 	overflow: hidden;
 	height: 40px;
 	margin-top: 20px;
@@ -139,8 +133,6 @@ a{
 	padding-left: 950px;
 }	
 .sanceng{
-	width: 1200px; 
-	margin: 0 auto; 
 	margin-bottom: 30px;
 }
 .meihang{
@@ -195,11 +187,6 @@ a{
 	background-color: #f5f5f5;
 	/* margin-bottom: 20px; */
 	padding-bottom: 20px;
-}
-.center{
-	width: 1200px;
-	margin: 0 auto;
-	/* padding-bottom: 20px; */
 }
 .zizhiqu{
 	float: left;
